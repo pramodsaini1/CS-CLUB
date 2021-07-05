@@ -4,6 +4,39 @@
 	License: Creative Commons Attribution 3.0 Unported
 	License URL: http://creativecommons.org/licenses/by/3.0/
 --*/
+.fa-facebook {
+  background-color: #3b5998;
+  margin-right: 10px;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+}
+
+.fa-twitter {
+  background-color: #55acee;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+}
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+}
+.fa-instagram {
+  background: #125688;
+  color: white;
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+}
+
 
 /*-- Reset Code --*/
 body {
